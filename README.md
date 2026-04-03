@@ -1,10 +1,6 @@
 #RetroDex (Beta)
 ### A Paradise of Retro Games
 
-<p align="center">
-  <img src="./About%20OpenArt-1.jpg" alt="RetroDex Preview" width="600"/>
-</p>
-
 ---
 
 ### Supported Languages
@@ -22,4 +18,8 @@
 
 <p align="center">
   <sub>Made for retro game lovers</sub>
+</p>
+
+<p align="center">
+  <img src="./About%20OpenArt-1.jpg" alt="RetroDex Preview" width="600"/>
 </p>
