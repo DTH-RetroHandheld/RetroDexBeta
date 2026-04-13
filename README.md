@@ -1,5 +1,5 @@
-#RetroDex (Beta)
-### A Paradise of Retro Games
+#RetroDex (Beta) 1.2.3
+### A Paradise of Retro Games 
 
 ---
 
